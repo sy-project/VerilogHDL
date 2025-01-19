@@ -1,2 +1,8 @@
+# VS Code
+https://code.visualstudio.com/
+
 # VerilogHDL
-Study Verilog
+https://bleyer.org/icarus/
+
+# WaveTrace
+https://www.wavetrace.io/
